@@ -15,3 +15,6 @@ to convert images using [imagemagick](https://www.imagemagick.org/script/index.p
 ```bash
 for f in *.png; do convert -scale 128x128 $f $f; done
 ```
+
+## Adding to slack
+I'd recommend this : https://github.com/Fauntleroy/slack-emoji-tools
